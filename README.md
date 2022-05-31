@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Filipi Santos
 
 - 🔭 Hoje trabalho com Testes
-- 🌱 Estudando Dessenvolvimento Full-Stack
+- 🌱 Estudando Desenvolvimento Full-Stack
 - 😄 Pronome: Ele/dele
 
 <br><br>
